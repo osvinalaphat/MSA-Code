@@ -1,0 +1,4 @@
+6/24/2025. Error: gpa or credit hours aren't numbers at 1
+6/24/2025. Error: Missing information at line 1
+6/24/2025. Error: You don't have all the required information at line 2
+6/24/2025. Error: You don't have all the required information at line 3
